@@ -41,6 +41,13 @@ This design is contoured to fit well on the back of an iMac Pro. It may work wit
 * Straight: [Step (CAD interchange)](STEP%20Files/Magsafe%20Camera%20Mount_Studio%20Display%20(Straight).step)
 * Straight: [3MF (Printable)](Printable%20Files/Magsafe%20Camera%20Mount_Studio%20Display%20(Straight).3mf)
 
+### Samsung C34J791 34" Curved Monitor
+
+This design is for a Samsung C34J791 but should fit any dusplay that is ~12mm deep.
+
+* Angled: [Step (CAD interchange)](STEP%20Files/Magsafe%20Camera%20Mount_12mm%20(Angled).step)
+* Angled: [3MF (Printable)](Printable%20Files/Magsafe%20Camera%20Mount_12mm%20(Angled).3mf)
+
 ## License
 
 [This work is licensed under a
